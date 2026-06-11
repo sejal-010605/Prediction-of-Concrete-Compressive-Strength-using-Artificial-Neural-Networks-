@@ -287,6 +287,3 @@ Extend the model to predict:
 5. Related ANN-based concrete strength prediction literature
 
 ---
-
-
-This project was developed for academic and educational purposes as part of the Smart Infrastructure Engineering course.
